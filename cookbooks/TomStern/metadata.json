@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "rs_utils": ">= 0.0.0"
+  },
+  "name": "TomStern",
+  "maintainer_email": "thomas@rightscale.com",
+  "attributes": {
+  },
+  "license": "All rights reserved",
+  "suggestions": {
+  },
+  "platforms": {
+    "ubuntu": ">= 0.0.0"
+  },
+  "maintainer": "RightScale, Inc.",
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES:\n\n= USAGE:\n\n",
+  "version": "0.0.1",
+  "recommendations": {
+  },
+  "recipes": {
+    "TomStern::setup_tstern": ""
+  },
+  "groupings": {
+  },
+  "conflicting": {
+  },
+  "replacing": {
+  },
+  "description": "Installs/Configures TomStern",
+  "providing": {
+  }
+}
