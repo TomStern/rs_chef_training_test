@@ -8,4 +8,4 @@
 #
 
 log "Hello World!"
-log "Success!  Tom..."
+log "This is Tom's SECOND attempt, modification.."
