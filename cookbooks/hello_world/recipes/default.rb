@@ -8,7 +8,7 @@
 #
 
 log "Hello World!"
-log "This is Tom's FOURTH  attempt, modification.."
+log "This is Tom's FIFTH  attempt, modification.."
 
 directory "/tmp/something" do
   owner "root"
