@@ -8,4 +8,12 @@
 #
 
 log "Hello World!"
-log "This is Tom's SECOND attempt, modification.."
+log "This is Tom's FOURTH  attempt, modification.."
+
+directory "/tmp/something" do
+  owner "root"
+  group "root"
+  mode 0755
+  path "/tmp/somethingelse"
+  action :create
+end
