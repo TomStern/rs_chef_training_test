@@ -31,4 +31,4 @@ end
 
 log "See the content of node[:platform] is #{node[:platform]}"
 
-rs_utls_marker :end
+rs_utils_marker :end
